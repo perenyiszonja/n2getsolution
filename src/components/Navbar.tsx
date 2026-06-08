@@ -16,6 +16,7 @@ export function Navbar() {
   const navItems = [
     { label: t.nav.services, href: '#services' },
     { label: t.nav.howWeWork, href: '#how-we-work' },
+    { label: t.nav.about, href: '#about' },
     { label: t.nav.careers, href: '#careers' },
     { label: t.nav.blog, href: '#blog' },
   ]

@@ -5,6 +5,7 @@ export const translations = {
     nav: {
       services: 'Services',
       howWeWork: 'How We Work',
+      about: 'About Us',
       careers: 'Talent & Careers',
       blog: 'Insights',
       contact: 'Contact',
@@ -125,6 +126,7 @@ export const translations = {
     nav: {
       services: 'Szolgáltatások',
       howWeWork: 'Hogyan dolgozunk',
+      about: 'Rólunk',
       careers: 'Karrier',
       blog: 'Megoldásaink',
       contact: 'Kapcsolat',
@@ -245,6 +247,7 @@ export const translations = {
     nav: {
       services: 'Leistungen',
       howWeWork: 'Wie wir arbeiten',
+      about: 'Über uns',
       careers: 'Karriere',
       blog: 'Einblicke',
       contact: 'Kontakt',

@@ -25,7 +25,7 @@ export function BlogSection() {
                 e.preventDefault()
                 window.location.hash = `blog/${post.id}`
               }}
-              className="group p-6 rounded-xl border border-black/5 bg-surface hover:border-accent/30 hover:shadow-md transition-all"
+              className="group p-6 rounded-xl border border-black/5 bg-surface-light/30 hover:border-accent/30 transition-all"
             >
               <div className="flex items-center gap-2 text-xs text-text-muted mb-3">
                 <span className="px-2 py-0.5 rounded-full bg-accent/10 text-accent font-medium">

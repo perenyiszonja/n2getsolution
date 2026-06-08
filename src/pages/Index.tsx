@@ -10,6 +10,8 @@ import { BlogSection } from '../components/BlogSection'
 import { BlogPostView } from '../components/BlogPost'
 import { ProblemNavigator } from '../components/ProblemNavigator'
 import { DiagnosticQuiz } from '../components/DiagnosticQuiz'
+import { About } from '../components/About'
+import { NetworkBackground } from '../components/NetworkBackground'
 import { Footer } from '../components/Footer'
 
 export function Index() {
@@ -43,6 +45,7 @@ export function Index() {
 
   return (
     <>
+      <NetworkBackground />
       <Navbar />
       <Hero />
       <ProblemNavigator />
@@ -51,6 +54,7 @@ export function Index() {
       <WhatThisMeans />
       <Services />
       <DiagnosticQuiz />
+      <About />
       <Careers />
       <BlogSection />
       <Footer />
