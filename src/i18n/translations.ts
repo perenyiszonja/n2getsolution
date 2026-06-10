@@ -3,11 +3,11 @@ export type Language = 'en' | 'hu' | 'de'
 export const translations = {
   en: {
     nav: {
-      services: 'Services',
-      howWeWork: 'How We Work',
+      services: 'Solutions',
+      howWeWork: 'Playground',
       about: 'About Us',
-      careers: 'Talent & Careers',
-      blog: 'Insights',
+      careers: 'Join Us',
+      blog: "Let's Talk",
       contact: 'Contact',
     },
     hero: {
@@ -124,11 +124,11 @@ export const translations = {
   },
   hu: {
     nav: {
-      services: 'Szolgáltatások',
-      howWeWork: 'Hogyan dolgozunk',
+      services: 'Megoldások',
+      howWeWork: 'Játszótér',
       about: 'Rólunk',
-      careers: 'Karrier',
-      blog: 'Megoldásaink',
+      careers: 'Csatlakozz',
+      blog: 'Beszéljünk',
       contact: 'Kapcsolat',
     },
     hero: {
@@ -245,11 +245,11 @@ export const translations = {
   },
   de: {
     nav: {
-      services: 'Leistungen',
-      howWeWork: 'Wie wir arbeiten',
+      services: 'Lösungen',
+      howWeWork: 'Spielplatz',
       about: 'Über uns',
-      careers: 'Karriere',
-      blog: 'Einblicke',
+      careers: 'Mitmachen',
+      blog: 'Sprechen wir',
       contact: 'Kontakt',
     },
     hero: {
